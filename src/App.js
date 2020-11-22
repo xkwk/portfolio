@@ -9,7 +9,7 @@ class App extends React.Component {
     this.state = {
       currTopic: 'Home',
     };
-    this.topics = ['Home', 'React', 'Node.js', 'Django', 'Internship'];
+    this.topics = ['Home', 'React', 'Django', 'Internship']; // 'Node.js'
   }
 
   render() {
